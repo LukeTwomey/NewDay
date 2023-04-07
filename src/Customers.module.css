@@ -1,0 +1,9 @@
+.button {
+  background: #d45454;
+}
+
+.button:focus,
+.button:focus-visible,
+.button:hover {
+  background: #943d3d;
+}
